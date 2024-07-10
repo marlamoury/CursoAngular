@@ -1,2 +1,2 @@
-# CursoAngular
-CRUD em Angular.js
+# Tecnologias Angular e C#.Net
+
